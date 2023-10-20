@@ -1,0 +1,8 @@
+sources:
+    - name: staging
+      database: nyc-taxi-deproject
+      schema: nyc_taxi_data_all
+
+      tables:
+        - name: yellow
+        - name: green
