@@ -41,9 +41,11 @@ terraform apply
 prefect server start
 ```
 - create a  GCP Credentials Block
-![alt img](https://github.com/ym-xu/NYC-Traffic-Analytics-System/blob/main/imgs/Xnip2023-10-19_12-13-56.jpg){:height="50%" width="50%"}
+<img src="https://github.com/ym-xu/NYC-Traffic-Analytics-System/blob/main/imgs/Xnip2023-10-19_12-13-56.jpg" width="100px">
+
 - create a GCP Bucket Block
-![alt img](https://github.com/ym-xu/NYC-Traffic-Analytics-System/blob/main/imgs/Xnip2023-10-19_12-14-59.jpg){:height="50%" width="50%"}
+<img src="https://github.com/ym-xu/NYC-Traffic-Analytics-System/blob/main/imgs/Xnip2023-10-19_12-14-59.jpg" width="100px">
+
 
 
 ## Visualization
