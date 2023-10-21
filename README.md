@@ -48,6 +48,10 @@ prefect server start
 
 ## Visualization
 
+Analytics dashboard is available at: [https://lookerstudio.google.com/s/hBwUSVHHH58](https://lookerstudio.google.com/s/hBwUSVHHH58) 
+
+![alt img](https://github.com/ym-xu/NYC-Traffic-Analytics-System/blob/main/imgs/Report.jpg)
+
 ## Inference
 
 ## Source Code Reference
